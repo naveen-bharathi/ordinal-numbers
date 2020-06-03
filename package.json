@@ -1,7 +1,7 @@
 {
   "name": "@naveen-bharathi/ordinal-numbers",
   "version": "1.0.1",
-  "description": "Filter / Remove keys from object recursively.",
+  "description": "A javascript module to get ordinal numbers like 1st, 2nd and 3rd.",
   "main": "index.js",
   "scripts": {
     "test": "jest"

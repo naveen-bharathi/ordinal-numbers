@@ -1,8 +1,12 @@
-![tests](https://github.com/naveen-bharathi/ordinal-numbers/workflows/tests/badge.svg?event=push) ![License](https://badgen.net/npm/license/@naveen-bharathi%2Fordinal-numbers?color=blue) ![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/ordinal-numbers) ![weekly downloads](https://badgen.net/npm/dw/@naveen-bharathi%2Fordinal-numbers?color=blue&icon=npm) ![dependencies](https://badgen.net/david/dep/naveen-bharathi/ordinal-numbers?color=green) ![dependents](https://badgen.net/npm/dependents/@naveen-bharathi%2Fordinal-numbers?color=green) ![publish size](https://badgen.net/bundlephobia/minzip/@naveen-bharathi/ordinal-numbers?color=blue)
+![tests](https://github.com/naveen-bharathi/ordinal-numbers/workflows/tests/badge.svg?event=push) ![License](https://badgen.net/npm/license/@naveen-bharathi%2Fordinal-numbers?color=blue) ![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/ordinal-numbers)
+ <!-- ![weekly downloads](https://badgen.net/npm/dw/@naveen-bharathi%2Fordinal-numbers?color=blue&icon=npm)  -->
+ ![dependencies](https://badgen.net/david/dep/naveen-bharathi/ordinal-numbers?color=green) 
+ <!-- ![dependents](https://badgen.net/npm/dependents/@naveen-bharathi%2Fordinal-numbers?color=green)  -->
+ ![publish size](https://badgen.net/bundlephobia/minzip/@naveen-bharathi/ordinal-numbers?color=blue)
 
 # ordinal-numbers
 
-Filter / Remove keys from object recursively.
+A javascript module to get ordinal numbers like 1st, 2nd and 3rd.
 
 ## Installation
 
