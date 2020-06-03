@@ -1,6 +1,6 @@
 {
   "name": "@naveen-bharathi/ordinal-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Filter / Remove keys from object recursively.",
   "main": "index.js",
   "scripts": {
