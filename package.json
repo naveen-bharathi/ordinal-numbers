@@ -1,0 +1,41 @@
+{
+  "name": "@naveen-bharathi/ordinal-numbers",
+  "version": "1.0.0",
+  "description": "Filter / Remove keys from object recursively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen-bharathi/ordinal-numbers.git"
+  },
+  "author": "Naveen Bharathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naveen-bharathi/ordinal-numbers/issues"
+  },
+  "homepage": "https://github.com/naveen-bharathi/ordinal-numbers#readme",
+  "keywords": [
+    "1st",
+    "2nd",
+    "3rd",
+    "4rd",
+    "st",
+    "nd",
+    "rd",
+    "th",
+    "ordinal-numbers",
+    "ordinal",
+    "number",
+    "numbers"
+  ],
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "jest": "^26.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
